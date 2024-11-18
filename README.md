@@ -13,9 +13,9 @@ This Solidity smart contract demonstrates the use of require(), assert(), and re
 <br> Compile the contract in Remix IDE.
 <br> Deploy it using a local VM or Ethereum testnet.
 <br> Test the following scenarios:
-<br><br> Update balance with valid and invalid inputs.
-<br><br> Withdraw amounts exceeding the balance.
-<br><br> Call nonOwnerTest() as a non-owner.
+<br><t> 1. Update balance with valid and invalid inputs.
+<br><t> 2. Withdraw amounts exceeding the balance.
+<br><t> 3. Call nonOwnerTest() as a non-owner.
 
 <h1> Help </h1>
 For common issues:
